@@ -8,7 +8,18 @@ if (isset($_POST['type'])) {
     
     switch ($_POST['type']) {
         case 'contactForm':
-            contactForm($_POST, $connection);
+            $result = contactForm($_POST, $connection);
+            if (isset($result['success']) && $result['success'] === true) {
+                // On success, go to thank-you
+                header('Location: /thank-you.php');
+                exit;
+            } else {
+                // On failure, go back to the referring page with error message
+                $redirectTo = isset($_POST['page']) ? $_POST['page'] : '/';
+                $errorMsg = isset($result['message']) ? $result['message'] : 'Failed to submit. Please try again.';
+                header('Location: ' . $redirectTo . '?error=' . urlencode($errorMsg));
+                exit;
+            }
             break;
             
         case 'addJobPosition':

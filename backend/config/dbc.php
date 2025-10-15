@@ -9,8 +9,8 @@ if (!defined('DB_NAME'))
     define('DB_NAME', 'cybertron_labs');
 
 // Admin credentials
-$admin_email = "admin@cybertronlabs.com";
-$admin_password = "CyberLabs123@";
+$admin_email = "admin@example.com";
+$admin_password = "password123";
 
 $connection = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
 ?>

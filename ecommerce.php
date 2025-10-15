@@ -545,11 +545,5 @@
     </section>
 
 </main>
-<!-- Footer Start -->
-
-
-
-
-
 
 <?php include 'partials/footer.php'; ?>
