@@ -562,7 +562,7 @@ function current_url()
 
 function sendSlack($data)
 {
-    // Load .env from project root once
+    // Load .env from project root once per request
     static $envLoaded = false;
     if (!$envLoaded) {
         $envPath = __DIR__ . '/../../.env';
@@ -590,10 +590,10 @@ function sendSlack($data)
         $envLoaded = true;
     }
 
-    // Load untracked secrets file if present
+    // Load secrets if present
     $secretsPath = __DIR__ . '/../config/secrets.php';
     if (file_exists($secretsPath)) {
-        include_once $secretsPath; // defines SLACK_WEBHOOK_URL
+        include_once $secretsPath; // may define SLACK_WEBHOOK_URL
     }
 
     // Prefer env; fallback to constant
@@ -602,16 +602,16 @@ function sendSlack($data)
         $webhook = SLACK_WEBHOOK_URL;
     }
     if (!$webhook) {
-        return false; // No webhook configured
+        return false;
     }
 
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $webhook);
     curl_setopt($ch, CURLOPT_POST, 1);
     curl_setopt($ch, CURLOPT_HTTPHEADER, ['Content-Type: application/json']);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, $data); // $data must be a JSON string
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $data); // $data is JSON
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     $server_output = curl_exec($ch);
     curl_close($ch);
-    return ($server_output);
+    return $server_output;
 }
