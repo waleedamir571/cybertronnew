@@ -12,7 +12,8 @@
                             </span>
                             <span class="bold"></span>
                         </p>
-                        <p class="job4 fw-300 ptb-20">We love sharing what we build; the ideas that spark it, the people who make it happen, and the small moments that lead to something big.
+                        <p class="job4 fw-300 ptb-20">We love sharing what we build; the ideas that spark it, the people
+                            who make it happen, and the small moments that lead to something big.
 
 
                         </p>
@@ -69,6 +70,50 @@
                                             </span></p>
                                         <p class="learn ptb-20">In the Gulf Cooperation Council (GCC), where tech
                                             innovation is reshaping economies, businesses face a tough reality
+                                        </p>
+                                    </a>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="col-md-4" data-aos="fade-right">
+
+                            <div class="startup-banner11">
+
+                                <div class="overlay"></div>
+                                <div class="content">
+                                    <div class="pb-10">
+                                        <a href="#" class="btn btn-blog ">Oct 15, 2025</a>
+                                    </div>
+                                    <a href="best-game-engine-unity-vs-unreal">
+                                        <p class="role1">Best Game Engine 2025: <span class="purple">Unity vs. Unreal
+                                            </span></p>
+                                        <p class="learn ptb-20">Game development is changing and has taken over the year
+                                            2025. It brings even more powerful tools.
+                                        </p>
+                                    </a>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="col-md-4" data-aos="fade-right">
+
+                            <div class="startup-banner11">
+
+                                <div class="overlay"></div>
+                                <div class="content">
+                                    <div class="pb-10">
+                                        <a href="#" class="btn btn-blog ">Oct 15, 2025</a>
+                                    </div>
+                                    <a href="best-game-engine-unity-vs-unreal">
+                                        <p class="role1">Best Web Development Frameworks <span class="purple">A Guide
+                                                for Web Developers
+                                            </span></p>
+                                        <p class="learn ptb-20">As the web development world evolves, new tools and
+                                            technologies keep emerging, making it both exciting and overwhelming to stay
+                                            updated.
                                         </p>
                                     </a>
                                 </div>

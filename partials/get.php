@@ -5,7 +5,7 @@
       <div class="row align-items-center">
         <!-- Left Column: Text -->
         <div class="col-md-6 offset-md-1 cta-text" data-aos="fade-right">
-          <p class="head2">Ready To <span class="purple">Get </span> <br>
+          <p class="head2">Ready To Get<span class="purple"> </span> <br>
             <span class="bold">Started?</span>
           </p>
           <br>
