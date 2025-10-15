@@ -180,8 +180,8 @@ function sendAdminEmail($adminSubject, $adminBody)
     $mail = new PHPMailer(true);
     try {
         // Enable verbose debug output
-        $mail->SMTPDebug = 2;
-        $mail->Debugoutput = 'html';
+        $mail->SMTPDebug = 0;
+        // $mail->Debugoutput = 'html';
 
         $mail->isSMTP();
         $mail->Host = 'smtp.cybertronlabs.com';
