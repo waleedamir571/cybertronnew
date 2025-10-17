@@ -100,20 +100,18 @@
                         </div>
                         <div class="col-md-4" data-aos="fade-right">
 
-                            <div class="startup-banner11">
+                            <div class="startup-banner12">
 
                                 <div class="overlay"></div>
                                 <div class="content">
                                     <div class="pb-10">
-                                        <a href="#" class="btn btn-blog ">Oct 15, 2025</a>
+                                        <a href="#" class="btn btn-blog ">Oct 16, 2025</a>
                                     </div>
-                                    <a href="best-game-engine-unity-vs-unreal">
-                                        <p class="role1">Best Web Development Frameworks <span class="purple">A Guide
-                                                for Web Developers
+                                    <a href="best-web-development-framework">
+                                        <p class="role1"><span class="purple">Best Web</span>   <span class="">Development Frameworks
                                             </span></p>
                                         <p class="learn ptb-20">As the web development world evolves, new tools and
-                                            technologies keep emerging, making it both exciting and overwhelming to stay
-                                            updated.
+                                            technologies keep emerging, 
                                         </p>
                                     </a>
                                 </div>

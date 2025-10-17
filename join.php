@@ -35,7 +35,7 @@ $positions = getActiveJobPositions($connection);
                 </div>
                 <div class="row">
                     <?php foreach ($positions as $p): ?>
-                        <a href="job-details.php?id=<?= (int) $p['id'] ?>">
+                        <a href="job-details?id=<?= (int) $p['id'] ?>">
                             <div class="col-sm-12 pb-50" data-aos="fade-right">
                                 <p class="job1 "><?= htmlspecialchars($p['name']) ?></p>
                                 <p class="job2 pb-20 pt-20"><?= htmlspecialchars($p['description']) ?></p>

@@ -1,5 +1,7 @@
-<?php include 'partials/header.php'; ?>
 
+<?php include 'partials/meta.php'; ?>
+<?php include 'partials/header.php'; ?>
+<?php include 'partials/nav.php'; ?>
 <main class="main">
     <section class="section banner-mode">
 

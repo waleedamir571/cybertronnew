@@ -28,8 +28,8 @@ $functions = basename($_SERVER['PHP_SELF']); // Get just the filename
 
 switch ($functions) {
   case "index.php";
-    $title_name = " Software Development Company in the UAE| Cybertron Labs  ";
-    $description = " Cybertron Labs delivers AI, software, and full-stack solutions to help businesses innovate, scale, and achieve digital transformation.";
+    $title_name = " Blogs  ";
+    $description = " Blogs";
     $keywords = "";
 
 
