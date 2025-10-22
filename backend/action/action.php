@@ -11,7 +11,7 @@ if (isset($_POST['type'])) {
             $result = contactForm($_POST, $connection);
             if (isset($result['success']) && $result['success'] === true) {
                 // On success, go to thank-you
-                header('Location: /thank-you.php');
+                header('Location: /thank-you');
                 exit;
             } else {
                 // On failure, go back to the referring page with error message
@@ -54,7 +54,7 @@ if (isset($_POST['type'])) {
     }
     
     if (!isset($_POST['no_redirect'])) {
-        header('Location: /thank-you.php');
+        header('Location: /thank-you');
     }
 }
 ?>
