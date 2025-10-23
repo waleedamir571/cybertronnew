@@ -18,7 +18,6 @@
                         <p class="job4 fw-300 ptb-20">We love sharing what we build; the ideas that spark it, the people
                             who make it happen, and the small moments that lead to something big.
 
-
                         </p>
                     </div>
                 </div>
@@ -28,7 +27,6 @@
                 <!-- 🔥 EXPANDABLE VIDEO SECTION ENDS -->
 
             </div>
-
         </div>
 
         <!-- 🔽 NEXT SECTION STARTS -->
@@ -73,9 +71,7 @@
                                         </p>
                                     </a>
                                 </div>
-
                             </div>
-
                         </div>
                         <div class="col-md-4" data-aos="fade-right">
 
@@ -96,7 +92,6 @@
                                 </div>
 
                             </div>
-
                         </div>
                         <div class="col-md-4" data-aos="fade-right">
 
@@ -115,15 +110,10 @@
                                         </p>
                                     </a>
                                 </div>
-
                             </div>
-
                         </div>
-
                     </div>
-
                 </div>
-
             </div>
         </div>
     </section>
@@ -167,3 +157,4 @@
 <!-- Footer Start -->
 
 <?php include 'partials/footer.php'; ?>
+
