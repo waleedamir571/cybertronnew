@@ -52,9 +52,6 @@
                 </div> -->
             </div>
 
-
-
-
             <div class="box-services bg-0 pb-45">
                 <div class="container-fluid">
                     <div class="row  pb-45">
@@ -131,8 +128,6 @@
         </div>
     </section>
 
-
-
     <section class="section bg-900 pt-50">
         <div class="container-fluid">
             <div class="cta-section" aria-label="Cybertron Labs UAE staffing CTA">
@@ -146,9 +141,6 @@
                         <br>
                         <br>
                         <p class="lorem2 white pb-50">Read, learn, and build something great with Cybertron Labs
-
-
-
 
                         </p>
                     </div>
@@ -173,10 +165,5 @@
 
 </main>
 <!-- Footer Start -->
-
-
-
-
-
 
 <?php include 'partials/footer.php'; ?>
