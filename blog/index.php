@@ -1,4 +1,3 @@
-
 <?php include 'partials/meta.php'; ?>
 <?php include 'partials/header.php'; ?>
 <?php include 'partials/nav.php'; ?>
@@ -103,10 +102,35 @@
                                         <a href="#" class="btn btn-blog ">Oct 16, 2025</a>
                                     </div>
                                     <a href="../blog/best-web-development-framework">
-                                        <p class="role1"><span class="purple">Best Web</span>   <span class="">Development Frameworks
+                                        <p class="role1"><span class="purple">Best Web</span> <span class="">Development
+                                                Frameworks
                                             </span></p>
                                         <p class="learn ptb-20">As the web development world evolves, new tools and
-                                            technologies keep emerging, 
+                                            technologies keep emerging,
+                                        </p>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="row pb-30">
+                        <div class="col-md-4" data-aos="fade-right">
+
+                            <div class="startup-banner13">
+
+                                <div class="overlay"></div>
+                                <div class="content">
+                                    <div class="pb-10">
+                                        <a href="#" class="btn btn-blog ">Oct 30, 2025</a>
+                                    </div>
+                                    <a href="../blog/powering-aI-driven-tech-teams">
+                                        <p class="role1">Powering AI-Driven
+                                            <span class="purple"></span> <span class="">Tech Teams
+                                            </span>
+                                        </p>
+                                        <p class="learn ptb-20">AI is everywhere. From copilots writing code to chatbots
+                                            handling customer care, the world is moving faster than eve
                                         </p>
                                     </a>
                                 </div>
@@ -157,4 +181,3 @@
 <!-- Footer Start -->
 
 <?php include 'partials/footer.php'; ?>
-
