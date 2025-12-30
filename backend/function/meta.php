@@ -129,7 +129,8 @@ AI or engineering, we welcome passionate talent. Discover our culture and curren
   case "it-staff-augmentation.php";
     $title_name = "IT Staff Augmentation Services in the GCC: in
 Your 2025 Guide to Scaling Tech Teams";
-    $description = "";
+    $description = "T Staff Augmentation Services in the GCC: in
+Your 2025 Guide to Scaling Tech Teams";
     $keywords = "";
 
     break;
@@ -176,25 +177,25 @@ Donald’s Book Publishing supports authors every step of the way";
     $keywords = "";
 
     break;
-     case "how-we-deliver.php";
+  case "how-we-deliver.php";
     $title_name = "how-we-deliver";
     $description = "";
     $keywords = "";
 
     break;
-     case "blogs.php";
+  case "blogs.php";
     $title_name = "Blogs";
     $description = "";
     $keywords = "";
 
     break;
-      case "best-game-engine-unity-vs-unreal.php";
+  case "best-game-engine-unity-vs-unreal.php";
     $title_name = "Best Game Engine 2025: Unity vs. Unreal | Cybertron Labs";
     $description = "In this guide we will understand the advantages, disadvantages, and unique features of Best Game Engine 2025.";
     $keywords = "";
 
     break;
-      case "best-web-development-framework.php";
+  case "best-web-development-framework.php";
     $title_name = "Best Web Development Frameworks for 2025 | Cybertron Labs";
     $description = " In this guide, we’ll break down the most popular frameworks, and discuss the differences between front-end vs. back-end development.";
     $keywords = "";

@@ -1992,6 +1992,19 @@
     overflow: hidden;
   }
 
+  .startup-banner14 {
+    position: relative;
+    background: url(../imgs/page/blog/b1.png) no-repeat center center / cover;
+    border-radius: 15px;
+    color: white;
+    padding: 40px;
+    height: 425px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    overflow: hidden;
+  }
+
   .top-3 {
     position: relative;
     top: -3rem;

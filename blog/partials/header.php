@@ -21,7 +21,7 @@
     rel="stylesheet">
   <!-- <link href="https://db.onlinewebfonts.com/c/xxxxxxxxxxxxxxxx?family=AkiraExpanded" rel="stylesheet"> -->
 
-
+  <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER["REQUEST_URI"], '?'); ?>" />
   <title>
     <?php echo $title_name; ?>
   </title>
@@ -30,7 +30,8 @@
 
 <body class="dark-mode page-transition alith-magic-cursor">
   <div class="page-loader">
-    <div class="page-loader-logo "><img class="h100" src="../assets/imgs/page/homepage1/loader.gif" alt="neuron" class="">
+    <div class="page-loader-logo "><img class="h100" src="../assets/imgs/page/homepage1/loader.gif" alt="neuron"
+        class="">
     </div>
     <!-- <div class="page-loader-logo "><img src="assets/imgs/page/homepage1/ct logo 02.gif" alt="neuron" class=""></div> -->
     <div class="bar"></div>
@@ -45,10 +46,10 @@
     <div class="bar"></div>
   </div>
   <div class="follower"></div>
-  <div class="cursor"><span class="dot"></span><span class="play"><img src="../assets/imgs/template/icons/cursor-play.svg"
-        alt="neuron"><span>Play</span></span><span class="drag"><img src="../assets/imgs/template/icons/cursor-drag.svg"
-        alt="neuron"><span>Drag</span></span><span class="view"><img src="../assets/imgs/template/icons/cursor-view.svg"
-        alt="neuron"><span>View</span></span></div>
+  <div class="cursor"><span class="dot"></span><span class="play"><img
+        src="../assets/imgs/template/icons/cursor-play.svg" alt="neuron"><span>Play</span></span><span class="drag"><img
+        src="../assets/imgs/template/icons/cursor-drag.svg" alt="neuron"><span>Drag</span></span><span class="view"><img
+        src="../assets/imgs/template/icons/cursor-view.svg" alt="neuron"><span>View</span></span></div>
 
 
 
@@ -65,4 +66,3 @@
           <div class="header-logo">
             <a href="../"><img src="../assets/imgs/page/homepage1/logo.png" alt="neuron" class="img-900"></a>
           </div>
-

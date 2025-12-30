@@ -22,7 +22,8 @@
     rel="stylesheet">
   <!-- <link href="https://db.onlinewebfonts.com/c/xxxxxxxxxxxxxxxx?family=AkiraExpanded" rel="stylesheet"> -->
 
-
+  <!-- CANONICAL TAG -->
+  <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER["REQUEST_URI"], '?'); ?>" />
   <title>
     <?php echo $title_name; ?>
   </title>

@@ -176,33 +176,52 @@ Donald’s Book Publishing supports authors every step of the way";
     $keywords = "";
 
     break;
-     case "how-we-deliver.php";
+  case "how-we-deliver.php";
     $title_name = "how-we-deliver";
     $description = "";
     $keywords = "";
 
     break;
-     case "blogs.php";
+  case "blogs.php";
     $title_name = "Blogs";
     $description = "";
     $keywords = "";
 
     break;
-      case "best-game-engine-unity-vs-unreal.php";
+  case "best-game-engine-unity-vs-unreal.php";
     $title_name = "Best Game Engine 2025: Unity vs. Unreal | Cybertron Labs";
     $description = "In this guide we will understand the advantages, disadvantages, and unique features of Best Game Engine 2025.";
     $keywords = "";
 
     break;
-      case "best-web-development-framework.php";
+  case "best-web-development-framework.php";
     $title_name = "Best Web Development Frameworks for 2025 | Cybertron Labs";
     $description = " In this guide, we’ll break down the most popular frameworks, and discuss the differences between front-end vs. back-end development.";
     $keywords = "";
 
     break;
-       case "powering-aI-driven-tech-teams.php";
+  case "powering-aI-driven-tech-teams.php";
     $title_name = "Best Web Development Frameworks for 2025 | Cybertron Labs";
     $description = " In this guide, we’ll break down the most popular frameworks, and discuss the differences between front-end vs. back-end development.";
+    $keywords = "";
+
+    break;
+
+  case "custom-web-development.php";
+    $title_name = "Professional Book Publishing Services for Authors Worldwide";
+    $description = " Expert book publishing services for authors, including eBook publishing and Kindle Direct Publishing support in the USA and globally. ";
+    $keywords = "";
+
+    break;
+  case "ecommerce-solutions.php";
+    $title_name = "eCommerce Solutions for Online Growth | Cybertron Labs";
+    $description = " Grow your online store with Cybertron Labs eCommerce solutions. We build secure, scalable, and high-converting eCommerce websites. ";
+    $keywords = "";
+
+    break;
+  case "staff-augmentation-services-dubai-startups.php";
+    $title_name = "Staff Augmentation Services Dubai for Startup Scaling";
+    $description = " Cybertron Labs offers staff augmentation services in Dubai to help startups scale cost-effectively with skilled tech talent and flexible team expansion. ";
     $keywords = "";
 
     break;

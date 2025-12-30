@@ -136,6 +136,121 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-md-4" data-aos="fade-right">
+
+                            <div class="startup-banner14">
+
+                                <div class="overlay"></div>
+                                <div class="content">
+                                    <div class="pb-10">
+                                        <a href="#" class="btn btn-blog ">Dec 18, 2025</a>
+                                    </div>
+                                    <a href="../blog/custom-web-development">
+                                        <p class="role1">How Strategic Web Development Fuels
+
+                                            <span class="purple"></span> <span class="">
+                                            </span>
+                                        </p>
+                                        <p class="learn ptb-20">In today’s digital era, your website is more than just a
+                                            business card
+                                        </p>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-md-4" data-aos="fade-right">
+
+                            <div class="startup-banner11">
+
+                                <div class="overlay"></div>
+                                <div class="content">
+                                    <div class="pb-10">
+                                        <a href="#" class="btn btn-blog ">Dec 19, 2025</a>
+                                    </div>
+                                    <a href="../blog/ecommerce-solutions">
+                                        <p class="role1">How to Build and Grow a Profitable eCommerce
+                                            Store
+                                        </p>
+                                        <p class="learn ptb-20">With the rise of digital platforms, e-commerce has
+                                            changed how businesses reach audiences and how consumers make purchasing
+                                            decisions.
+                                        </p>
+                                    </a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row pb-30">
+                        <div class="col-md-4" data-aos="fade-right">
+
+                            <div class="startup-banner13">
+
+                                <div class="overlay"></div>
+                                <div class="content">
+                                    <div class="pb-10">
+                                        <a href="#" class="btn btn-blog ">Dec 30, 2025</a>
+                                    </div>
+                                    <a href="../blog/staff-augmentation-services-dubai-startups">
+                                        <p class="role1">Staff Augmentation Services in Dubai:
+
+                                            <span class="purple"></span> <span class="">Cost-Effective 
+                                            </span>
+                                        </p>
+                                        <p class="learn ptb-20">ubai has rapidly emerged as a global startup hub,
+                                            attracting tech founders, SaaS innovators, and digital entrepreneurs from
+                                            around the world.
+                                        </p>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="col-md-4" data-aos="fade-right">
+
+                            <div class="startup-banner14">
+
+                                <div class="overlay"></div>
+                                <div class="content">
+                                    <div class="pb-10">
+                                        <a href="#" class="btn btn-blog ">Dec 18, 2025</a>
+                                    </div>
+                                    <a href="../blog/custom-web-development">
+                                        <p class="role1">How Strategic Web Development Fuels
+
+                                            <span class="purple"></span> <span class="">
+                                            </span>
+                                        </p>
+                                        <p class="learn ptb-20">In today’s digital era, your website is more than just a
+                                            business card
+                                        </p>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-md-4" data-aos="fade-right">
+
+                            <div class="startup-banner11">
+
+                                <div class="overlay"></div>
+                                <div class="content">
+                                    <div class="pb-10">
+                                        <a href="#" class="btn btn-blog ">Dec 19, 2025</a>
+                                    </div>
+                                    <a href="../blog/ecommerce-solutions">
+                                        <p class="role1">How to Build and Grow a Profitable eCommerce
+                                            Store
+                                        </p>
+                                        <p class="learn ptb-20">With the rise of digital platforms, e-commerce has
+                                            changed how businesses reach audiences and how consumers make purchasing
+                                            decisions.
+                                        </p>
+                                    </a>
+                                </div>
+
+                            </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
