@@ -192,6 +192,61 @@
   <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script> -->
   <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
 
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const loader = document.getElementById("custom-loader");
+    if(loader){
+        // 1 second ke liye loader show
+        setTimeout(() => {
+            loader.style.display = "none"; // remove after 1 second
+        }, 500); // 1000ms = 1 second
+    }
+});
+</script>
+
+
+
+<script>
+  $(window).on("load", function () {
+    $(".page-loader").remove();
+});
+
+</script>
+
+<script>
+window.addEventListener('load', function() {
+    
+    if (!window.location.href.includes('case.php')) {
+        
+        // Saare col-sm-4 ke andar ke cards ko process karo
+        document.querySelectorAll('.col-sm-4').forEach(function(column) {
+            
+            // Card ka outer link hatao (lekin content rahe)
+            var outerLink = column.querySelector('a[href="it-staff-augmentation"]');
+            var card = column.querySelector('.insight-card');
+            
+            if (outerLink && card) {
+                
+                // Outer link ko uske content se replace karo
+                outerLink.parentNode.replaceChild(card, outerLink);
+                
+                // Ab button ko contact-us par set karo
+                var button = card.querySelector('.btn.btn-default.grow-up');
+                if (button) {
+                    button.href = 'contact-us';
+                    button.addEventListener('click', function(e) {
+                        e.preventDefault();
+                        window.location.href = 'contact-us';
+                    });
+                }
+            }
+        });
+    }
+});
+</script>
+
+
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       let links = document.querySelectorAll(".footer-nav a");

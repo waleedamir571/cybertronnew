@@ -215,7 +215,7 @@ Donald’s Book Publishing supports authors every step of the way";
     break;
   case "ecommerce-solutions.php";
     $title_name = "eCommerce Solutions for Online Growth | Cybertron Labs";
-    $description = " Grow your online store with Cybertron Labs eCommerce solutions. We build secure, scalable, and high-converting eCommerce websites. ";
+    $description = " Grow your online store with Cybertron Labs eCommerce solutions. We build secure, scalable, and high-converting eCommerce websites.";
     $keywords = "";
 
     break;

@@ -2,26 +2,22 @@
     ("use strict");
     // Detect mobile device (Do not remove!!!)
     var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Nokia|Opera Mini/i.test(navigator.userAgent) ? true : false;
-    if (isMobile) {
-        $("body").addClass("is-mobile");
-    }
-
     var tl = gsap.timeline();
-    var $pageAppear = $(".appear");
-    if ($pageAppear.length) {
-        tl.from(
-            $pageAppear,
-            {
-                duration: 2,
-                y: 40,
-                autoAlpha: 0,
-                stagger: 0.3,
-                ease: Expo.easeOut,
-                clearProps: "all"
-            },
-            1.5
-        );
-    }
+var $pageAppear = $(".appear");
+if ($pageAppear.length) {
+    tl.from(
+        $pageAppear,
+        {
+            duration: 0.4,   // pehle 2 tha
+            y: 20,
+            autoAlpha: 0,
+            stagger: 0.1,
+            ease: "power2.out",
+            clearProps: "all"
+        }
+    );
+}
+
 
     //PARALLAX ITEM
     $(".parallax-item").wrap('<div class="parallax-item-wrap"></div>');

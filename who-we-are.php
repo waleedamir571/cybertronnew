@@ -55,7 +55,7 @@
 
 
             <div class="ptb-22">
-              <a class="btn btn-default grow-up" href="#">Get in Touch</a>
+              <a class="btn btn-default grow-up" href="contact-us">Get in Touch</a>
             </div>
           </div>
         </div>

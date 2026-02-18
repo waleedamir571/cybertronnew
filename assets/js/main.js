@@ -141,33 +141,33 @@
     $(".box-text-circle").lettering();
 
     // check and apply mode on page load
-    $(document).ready(function () {
-        if (!localStorage.getItem('mode')) {
-            localStorage.setItem('mode', 'dark');
-        }
-        var mode = localStorage.getItem("mode");
-        if (mode === "dark") {
-            $(".dark-light-mode").addClass("dark-mode");
-            $("body").addClass("dark-mode");
-        } else {
-            $(".dark-light-mode").removeClass("dark-mode");
-            $("body").removeClass("dark-mode");
-        }
-    });
+    // $(document).ready(function () {
+    //     if (!localStorage.getItem('mode')) {
+    //         localStorage.setItem('mode', 'dark');
+    //     }
+    //     var mode = localStorage.getItem("mode");
+    //     if (mode === "dark") {
+    //         $(".dark-light-mode").addClass("dark-mode");
+    //         $("body").addClass("dark-mode");
+    //     } else {
+    //         $(".dark-light-mode").removeClass("dark-mode");
+    //         $("body").removeClass("dark-mode");
+    //     }
+    // });
 
     // switch light dark mode
-    $(".dark-light-mode").on("click", function (e) {
-        e.preventDefault();
-        if ($(this).hasClass("dark-mode")) {
-            $(this).removeClass("dark-mode");
-            $("body").removeClass("dark-mode");
-            localStorage.setItem("mode", "light");
-        } else {
-            $(this).addClass("dark-mode");
-            $("body").addClass("dark-mode");
-            localStorage.setItem("mode", "dark");
-        }
-    });
+    // $(".dark-light-mode").on("click", function (e) {
+    //     e.preventDefault();
+    //     if ($(this).hasClass("dark-mode")) {
+    //         $(this).removeClass("dark-mode");
+    //         $("body").removeClass("dark-mode");
+    //         localStorage.setItem("mode", "light");
+    //     } else {
+    //         $(this).addClass("dark-mode");
+    //         $("body").addClass("dark-mode");
+    //         localStorage.setItem("mode", "dark");
+    //     }
+    // });
 
     //Fillter
     $(".btn-filter").on("click", function (e) {
@@ -327,26 +327,8 @@
         });
     }
 
-    if ($("body").hasClass("page-transition")) {
-        //page loader
-        $(window).on("load", function () {
-            setTimeout(function () {
-                $(".page-loader").fadeOut("slow");
-            }, 800);
-            gsap.to(".bar", 1.5, {
-                delay: 0,
-                height: 0,
-                stagger: {
-                    amount: 0.5
-                },
-                ease: "power4.inOut"
-            });
-        });
+    $(".page-loader").hide();
 
-
-    } else {
-        $(".page-loader").hide();
-    }
 
 var logoLoading = document.querySelector(".page-loader-logo img");
 var pageLoader = document.querySelector(".page-loader");

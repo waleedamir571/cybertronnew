@@ -26,8 +26,8 @@
                         <li><a href="../staff-augmentation">Staff Augmentations</a></li>
                       </div>
                       <div class="col">
-                        <li><a href="../blog.">News & Events</a></li>
-                        <li><a href="../blog-2.">Project Management</a></li>
+                        <!-- <li><a href="../blog.">News & Events</a></li>
+                        <li><a href="../blog-2.">Project Management</a></li> -->
                         <li><a href="../join">Jobs & Careers</a></li>
 
                       </div>

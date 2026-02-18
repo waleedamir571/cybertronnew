@@ -39,7 +39,7 @@
 
                         </p>
                         <br><br>
-                        <a class="btn btn-default grow-up" href="index">Back To Home</a>
+                        <a class="btn btn-default grow-up" href="./">Back To Home</a>
                     </div>
                 </div>
             </div>

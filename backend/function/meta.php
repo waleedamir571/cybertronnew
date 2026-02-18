@@ -121,7 +121,7 @@ AI or engineering, we welcome passionate talent. Discover our culture and curren
 
     break;
   case "web-design-and-seo.php";
-    $title_name = "Top Web Design Services in the USA | Donald’s Book Publishing";
+    $title_name = "Top Web Design Services in the USA | cybertron Labs";
     $description = "Professional web design services in the USA tailored to your business. Get responsive, SEO-optimized websites that drive traffic, leads, and conversions";
     $keywords = "web design services USA, custom website design, responsive web design USA, professional web designers, USA web development, SEO web design services";
 
@@ -135,40 +135,40 @@ Your 2025 Guide to Scaling Tech Teams";
 
     break;
   case "book-video-trailer.php";
-    $title_name = "Book Trailer Video Services in the USA | Donald’s Book Publishing";
+    $title_name = "Book Trailer Video Services in the USA | cybertron Labs";
     $description = "Engage readers with professional book trailer video services in the USA. Custom trailers for authors and publishers to market fiction, non-fiction, and more.";
     $keywords = "book trailer video services USA, book trailers for authors, custom book trailer videos, promote your book USA, book marketing videos, author video trailers";
 
     break;
   case "book-printing-services.php";
-    $title_name = "Professional Book Printing Services in the USA | Donald’s Book Publishing";
+    $title_name = "Professional Book Printing Services in the USA | cybertron Labs";
     $description = "Affordable and high-quality book printing services in the USA. Get custom, self-publishing, or bulk book printing with fast turnaround and expert support";
     $keywords = "book printing services USA, custom book printing, self-publishing printing USA, bulk book printing, print books USA, professional book printing";
 
     break;
   case "audiobook-services.php";
-    $title_name = "Top Audiobook Services in the USA | Donald’s Book Publishing";
+    $title_name = "Top Audiobook Services in the USA | cybertron Labs";
     $description = "Discover the best audiobook services in the USA for unlimited streaming and downloads. Compare top platforms, features, prices, and start listening today.";
     $keywords = "audiobook services USA, best audiobook platforms, audiobook apps USA, audiobook subscriptions, top audiobook services, listen to audiobooks USA";
 
     break;
   case "book-editing-services.php";
-    $title_name = "Professional Book Editing Services| Donald’s Book Publishing";
+    $title_name = "Professional Book Editing Services| cybertron Labs";
     $description = "Get professional Book Editing Services in USA to perfect your manuscript. Trusted by authors for clarity, flow, and publishing-ready quality";
     $keywords = "Book Editing Services, Book Editing Services in USA, Professional Book Editing Services in USA";
 
     break;
   case "thank-you.php";
-    $title_name = "Thank-You | Donald’s Book Publishing";
+    $title_name = "Thank-You | cybertron Labs";
     $description = "thank-you";
     $keywords = "Book Editing Services, Book Editing Services in USA, Professional Book Editing Services in USA";
 
     break;
   case "services.php";
-    $title_name = "All Book Publishing Solutions | Donald’s Book Publishing";
+    $title_name = "All Book Publishing Solutions | cybertron Labs";
     $description = "Get expert help with writing, editing, design, and publishing. 
-Donald’s Book Publishing supports authors every step of the way";
-    $keywords = "Donald’s Book Publishing, Book Publishing Solutions";
+cybertron Labs supports authors every step of the way";
+    $keywords = "cybertron Labs, Book Publishing Solutions";
 
     break;
   case "golf-master-ar.php";

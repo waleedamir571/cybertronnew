@@ -30,27 +30,19 @@
   <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
 </head>
 
-<body class="dark-mode page-transition alith-magic-cursor">
-  <div class="page-loader">
-    <div class="page-loader-logo "><img class="h100" src="assets/imgs/page/homepage1/loader.gif" alt="neuron" class="">
+<body class="no-loader-animation">
+<div id="custom-loader">
+  <div class="page-loader-logo">
+    <img src="assets/imgs/page/homepage1/loader.gif" alt="loader" class="loader-img">
     </div>
-    <!-- <div class="page-loader-logo "><img src="assets/imgs/page/homepage1/ct logo 02.gif" alt="neuron" class=""></div> -->
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-    <div class="bar"></div>
-  </div>
-  <div class="follower"></div>
+</div>
+
+
+  <!-- <div class="follower"></div>
   <div class="cursor"><span class="dot"></span><span class="play"><img src="assets/imgs/template/icons/cursor-play.svg"
         alt="neuron"><span>Play</span></span><span class="drag"><img src="assets/imgs/template/icons/cursor-drag.svg"
         alt="neuron"><span>Drag</span></span><span class="view"><img src="assets/imgs/template/icons/cursor-view.svg"
-        alt="neuron"><span>View</span></span></div>
+        alt="neuron"><span>View</span></span></div> -->
 
 
 
