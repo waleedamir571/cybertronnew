@@ -19,7 +19,7 @@
       <div class="container-fluid">
         <div class="row  pb-45">
 
-          <div class="col-md-4" data-aos="fade-right">
+          <div class="col-md-4 pb-22" data-aos="fade-right">
 
             <div class="startup-banner1">
 
@@ -38,7 +38,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4" data-aos="fade-right">
+          <div class="col-md-4 pb-22" data-aos="fade-right">
 
             <div class="startup-banner11">
 
@@ -58,7 +58,7 @@
 
             </div>
           </div>
-          <div class="col-md-4" data-aos="fade-right">
+          <div class="col-md-4 pb-22" data-aos="fade-right">
 
             <div class="startup-banner12">
 
@@ -80,8 +80,8 @@
           </div>
 
         </div>
-        <div class="row pb-30">
-          <div class="col-md-4" data-aos="fade-right">
+        <div class="row pb-30 ">
+          <div class="col-md-4 pb-22" data-aos="fade-right">
 
             <div class="startup-banner13">
 
@@ -102,7 +102,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4" data-aos="fade-right">
+          <div class="col-md-4 pb-22" data-aos="fade-right">
 
             <div class="startup-banner14">
 

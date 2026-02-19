@@ -15783,6 +15783,19 @@ body {
     font-size: 19px;
     
 }
+
+.pb-30 {
+    padding-bottom: 0px !important;
+}
+
+.startup-banner1 {
+    position: relative;
+    background: url(../imgs/page/blog/b1.png) no-repeat center center / cover;
+    border-radius: 15px;
+    color: white;
+    padding: 30px;
+    
+}
 .role1 {
     color: white;
     font-size: 25px;
@@ -15904,10 +15917,17 @@ body {
       height: auto;
 
     }
+    .box-why-us3 {
+    padding: 10px 0px 50px 0px;
+   
+}
+.pt-50 {
+    padding-top: 20px !important;
+}
 
     .anbg {
   bottom: 135.5rem;
-      /* display: none; */
+      display: none;
     }
 
     .top-1 {
@@ -16426,9 +16446,14 @@ body {
       line-height: 1.2;
       font-weight: 600;
     }
+    .pb-80 {
+    padding-bottom: 20px !important;
+}
+
+
 
     .box-why-us1 {
-      padding: 50px 0px 0px 0px;
+      padding: 25px 0px 0px 0px;
       /* background-image: url(../imgs/page/web/bgblue.png); */
       background-repeat: no-repeat;
       background-size: 100% 100%;
@@ -16510,7 +16535,7 @@ body {
     .head {
       color: #000;
       /* font-family: Urbanist; */
-      font-size: 24px;
+      font-size: 21px;
       font-style: normal;
       font-weight: 700;
       line-height: 1.4;
