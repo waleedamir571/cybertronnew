@@ -195,7 +195,7 @@
                                     <a href="../blog/staff-augmentation-services-dubai-startups">
                                         <p class="role1">Staff Augmentation Services in Dubai:
 
-                                            <span class="purple"></span> <span class="">Cost-Effective 
+                                            <span class="purple"></span> <span class="">Cost-Effective
                                             </span>
                                         </p>
                                         <p class="learn ptb-20">ubai has rapidly emerged as a global startup hub,
@@ -205,6 +205,29 @@
                                     </a>
                                 </div>
                             </div>
+                        </div>
+                        <div class="col-md-4" data-aos="fade-right">
+
+                            <div class="startup-banner14">
+
+                                <div class="overlay"></div>
+                                <div class="content">
+                                    <div class="pb-10">
+                                        <a href="#" class="btn btn-blog ">Dec 18, 2025</a>
+                                    </div>
+                                    <a href="../blog/custom-web-development">
+                                        <p class="role1">Staff Augmentation Services in Dubai 
+
+
+                                            <span class="purple"></span> <span class="">
+                                            </span>
+                                        </p>
+                                        <p class="learn ptb-20">Dubai has positioned itself as one of the world’s most attractive destinations for startups and technology-driven businesses. 
+                                        </p>
+                                    </a>
+                                </div>
+                            </div>
+
                         </div>
                         <!-- <div class="col-md-4" data-aos="fade-right">
 

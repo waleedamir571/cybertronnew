@@ -22,7 +22,6 @@
     }
 </style>
 
-
 <main class="main">
     <section class="section banner-mode">
 
@@ -34,7 +33,6 @@
                         <p class="head pb-45"><span class="purple">Sell Smarter </span> with <span class="purple">Our
                                 E-Commerce </span>
                             Services <span class="bold">in the UAE</span> </p>
-
 
                     </div>
                 </div>
@@ -84,7 +82,6 @@
             <div class="row mb-4">
                 <div class="col-md-9" data-aos="fade-right">
                     <p class="head pb-45">Our <span class="purple"> E-Commerce <br> Expertise </p>
-
 
                 </div>
             </div>
@@ -143,8 +140,6 @@
                                 </div>
                             </div>
                         </div>
-
-
                     </div>
 
                     <!-- ✅ Navigation Arrows -->
@@ -155,7 +150,6 @@
                     <!-- <div class="swiper-pagination"></div> -->
                 </div>
             </div>
-
 
         </div>
     </section>
@@ -173,13 +167,11 @@
                             businesses launch secure, scalable online stores faster. Trusted by UAE brands for our
                             cost-effective solutions, expert team, and seamless delivery.
 
-
                         </p>
                     </div>
 
                 </div>
             </div>
-
         </div>
 
         <div class="box-services bg-0 box-projects">
@@ -197,9 +189,6 @@
                                     </span></p>
                                 <p class="action fw-300 ptb-20">Start selling online quickly with our ready-to-scale
                                     platforms.
-
-
-
                                 </p>
 
                             </div>
@@ -219,8 +208,6 @@
                                         </p>
                                         <p class="action fw-300 ptb-20">Affordable E-Commerce Services in the UAE with
                                             no compromise on quality.
-
-
                                         </p>
                                     </div>
                                 </div>
@@ -235,7 +222,6 @@
                                             </span></p>
                                         <p class="action fw-300 ptb-20">Our experienced developers and designers deliver
                                             sleek, conversion-focused online stores.
-
 
                                         </p>
                                     </div>
@@ -260,10 +246,7 @@
                         </div>
 
                         <br>
-
                     </div>
-
-
                 </div>
 
             </div>
@@ -278,7 +261,6 @@
                 <div class="col-md-9 " data-aos="fade-right">
                     <p class="head pb-45">A clear process that helps you go <span class="purple"> from idea to success
                             </span> faster </p>
-
 
                 </div>
             </div>
@@ -312,7 +294,6 @@
                                 <p class="action fw-600 ptb-20">
                                     Create a roadmap for store design, integrations, and launch timelines.
 
-
                                 </p>
                             </div>
                             <!-- اگر آپ چاہیں تو بائیں/دائیں اور تصویری عنصر شامل کریں -->
@@ -329,7 +310,6 @@
                             <p class="action fw-600 ptb-20 black">
                                 Build intuitive layouts and user-friendly shopping experiences.
 
-
                             </p>
                         </div>
                         <!-- اگر آپ چاہیں تو بائیں/دائیں اور تصویری عنصر شامل کریں -->
@@ -342,7 +322,7 @@
                     <div class="pb-10">
                         <div class="hero22 hero-border ">
                             <div class="hero-content">
-                                <!-- Title: یہاں اپنا متن اردو/انگریزی دونوں لکھ سکتے ہیں -->
+                               
                                 <p class="startup">
                                     Develop & Integrate
 
@@ -350,17 +330,16 @@
                                 <p class="action fw-600 ptb-20">
                                     Set up product pages, payment gateways, and back-end systems.
 
-
                                 </p>
                             </div>
-                            <!-- اگر آپ چاہیں تو بائیں/دائیں اور تصویری عنصر شامل کریں -->
+                           
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 " data-aos="fade-right">
                     <div class="hero21 hero-border ">
                         <div class="hero-content">
-                            <!-- Title: یہاں اپنا متن اردو/انگریزی دونوں لکھ سکتے ہیں -->
+                           
                             <p class="startup black">
                                 Test & Launch
                             </p>
@@ -369,14 +348,14 @@
 
                             </p>
                         </div>
-                        <!-- اگر آپ چاہیں تو بائیں/دائیں اور تصویری عنصر شامل کریں -->
+
                     </div>
                 </div>
                 <div class="col-md-4 right2" data-aos="fade-right">
                     <div class="pb-10">
                         <div class="hero22 hero-border ">
                             <div class="hero-content">
-                                <!-- Title: یہاں اپنا متن اردو/انگریزی دونوں لکھ سکتے ہیں -->
+                            
                                 <p class="startup">
                                     Optimize & Support
 
@@ -384,16 +363,13 @@
                                 <p class="action fw-600 ptb-20">
                                     Provide post-launch support, updates, and analytics to boost conversions.
 
-
                                 </p>
                             </div>
-                            <!-- اگر آپ چاہیں تو بائیں/دائیں اور تصویری عنصر شامل کریں -->
+                            
                         </div>
                     </div>
                 </div>
-
             </div>
-
 
         </div>
     </section>
@@ -409,7 +385,6 @@
                 <div class="col-lg-12">
                     <div class="card-custom1">
                         <div class="box-faqs ">
-
 
                             <div class="accordion" id="accordionFAQ">
                                 <div class="accordion-item ">
@@ -427,8 +402,6 @@
                                             product catalog setup, and secure payments to integrations and post-launch
                                             support.
 
-
-
                                         </div>
                                     </div>
                                 </div>
@@ -444,7 +417,6 @@
                                         aria-labelledby="headingTwo" data-bs-parent="#accordionFAQ" style="">
                                         <div class="accordion-body font-lg ">Absolutely. We tailor every store to your
                                             brand, product range, and business needs.
-
 
                                         </div>
                                     </div>
@@ -481,17 +453,12 @@
                                         <div class="accordion-body font-lg "> Yes. All our E-Commerce Services in the
                                             UAE focus on responsive, mobile-first designs that look great on any device.
 
-
                                         </div>
                                     </div>
                                 </div>
 
-
                             </div>
                         </div>
-
-
-
 
                     </div>
                 </div>
@@ -499,10 +466,7 @@
         </div>
     </section>
 
-
     <?php include 'partials/case.php'; ?>
-
-
 
     <section class="section bg-900 pt-50">
         <div class="container-fluid">
@@ -519,8 +483,6 @@
                         <br>
                         <p class="lorem2 white pb-50">Launch your e-commerce store with Cybertron Labs’ E-Commerce
                             Services in the UAE. Start selling in days with secure payments and mobile-ready design.
-
-
 
                         </p>
                     </div>
